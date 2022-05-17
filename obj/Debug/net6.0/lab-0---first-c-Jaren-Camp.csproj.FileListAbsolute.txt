@@ -1,0 +1,15 @@
+C:\Users\jaren\Desktop\my-code-dir\lab-0---first-c-Jaren-Camp\bin\Debug\net6.0\lab-0---first-c-Jaren-Camp.exe
+C:\Users\jaren\Desktop\my-code-dir\lab-0---first-c-Jaren-Camp\bin\Debug\net6.0\lab-0---first-c-Jaren-Camp.deps.json
+C:\Users\jaren\Desktop\my-code-dir\lab-0---first-c-Jaren-Camp\bin\Debug\net6.0\lab-0---first-c-Jaren-Camp.runtimeconfig.json
+C:\Users\jaren\Desktop\my-code-dir\lab-0---first-c-Jaren-Camp\bin\Debug\net6.0\lab-0---first-c-Jaren-Camp.dll
+C:\Users\jaren\Desktop\my-code-dir\lab-0---first-c-Jaren-Camp\bin\Debug\net6.0\lab-0---first-c-Jaren-Camp.pdb
+C:\Users\jaren\Desktop\my-code-dir\lab-0---first-c-Jaren-Camp\obj\Debug\net6.0\lab-0---first-c-Jaren-Camp.csproj.AssemblyReference.cache
+C:\Users\jaren\Desktop\my-code-dir\lab-0---first-c-Jaren-Camp\obj\Debug\net6.0\lab-0---first-c-Jaren-Camp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaren\Desktop\my-code-dir\lab-0---first-c-Jaren-Camp\obj\Debug\net6.0\lab-0---first-c-Jaren-Camp.AssemblyInfoInputs.cache
+C:\Users\jaren\Desktop\my-code-dir\lab-0---first-c-Jaren-Camp\obj\Debug\net6.0\lab-0---first-c-Jaren-Camp.AssemblyInfo.cs
+C:\Users\jaren\Desktop\my-code-dir\lab-0---first-c-Jaren-Camp\obj\Debug\net6.0\lab-0---first-c-Jaren-Camp.csproj.CoreCompileInputs.cache
+C:\Users\jaren\Desktop\my-code-dir\lab-0---first-c-Jaren-Camp\obj\Debug\net6.0\lab-0---first-c-Jaren-Camp.dll
+C:\Users\jaren\Desktop\my-code-dir\lab-0---first-c-Jaren-Camp\obj\Debug\net6.0\refint\lab-0---first-c-Jaren-Camp.dll
+C:\Users\jaren\Desktop\my-code-dir\lab-0---first-c-Jaren-Camp\obj\Debug\net6.0\lab-0---first-c-Jaren-Camp.pdb
+C:\Users\jaren\Desktop\my-code-dir\lab-0---first-c-Jaren-Camp\obj\Debug\net6.0\lab-0---first-c-Jaren-Camp.genruntimeconfig.cache
+C:\Users\jaren\Desktop\my-code-dir\lab-0---first-c-Jaren-Camp\obj\Debug\net6.0\ref\lab-0---first-c-Jaren-Camp.dll
